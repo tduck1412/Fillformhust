@@ -1,4 +1,4 @@
-# Hướng dẫn cài đặt Extension trong 1 nốt nhạc 🐧
+# Hướng dẫn cài đặt 🐧
 
 Các bước thực hiện:
 * **Bước 1:** Tải file `.zip` về máy và giải nén.
